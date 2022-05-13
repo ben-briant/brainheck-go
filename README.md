@@ -2,6 +2,12 @@
 
 My attempt at writing a very basic brainfuck interpreter in [go](https://go.dev/). Done purely as a learning process to try figure out why everyone hates go so much!
 
+This is going to be bad code. And when I say bad, I mean _bad_. My apologies to anyone out there who knows how to actually write go programs that don't suck.
+
+## Update post-project
+
+I have a vague idea why people hate go so much.
+
 ## Brainfuck syntax
 
 | Symbol | Meaning |
